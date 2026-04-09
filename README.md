@@ -1,5 +1,5 @@
 # THREE-thinking
-注：此skill灵感和核心来源于 - 抖音博主：ShaneCodeStudio 
+
 
 三者搭配形成 **"拆解→追本→精简"** 的闭环，让思考更深度、决策更精准、行动更高效，避免 "想得多、做得杂、抓不住重点" 的问题。
 
@@ -184,7 +184,7 @@ cp -r THREE-thinking/skills/design-thinking ~/.claude/skills/
 ## 致谢
 
 灵感来源：
-- 抖音博主：ShaneCodeStudio （核心）
+- 此skill灵感和核心来源于 - 抖音博主：ShaneCodeStudio 
 - 亚里士多德的第一性原理
 - 苏格拉底的诘问法
 - 奥卡姆的剃刀原则
